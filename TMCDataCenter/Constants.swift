@@ -7,3 +7,22 @@
 //
 
 import Foundation
+
+
+struct DataMarkers {
+    
+    struct Customer {
+        static let firstName: String = "firstName"
+        static let lastName: String = "lastName"
+        
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+}

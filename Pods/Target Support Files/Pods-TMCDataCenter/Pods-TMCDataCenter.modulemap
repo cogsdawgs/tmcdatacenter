@@ -1,0 +1,6 @@
+framework module Pods_TMCDataCenter {
+  umbrella header "Pods-TMCDataCenter-umbrella.h"
+
+  export *
+  module * { export * }
+}
